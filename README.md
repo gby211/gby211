@@ -12,7 +12,7 @@
     <i>Hello, there!</i> I'm <b>Pavel</b>.
     <br>
     <br>
-    <i>#figma</i>, <i>#photoshop</i>, <i>#kotlin</i>
+    <i>#figma</i>, <i>#photoshop</i>, <i>#kotlin</i>, <i>#android</i>, <i>#java</i>
   </samp>
   
   <br>
