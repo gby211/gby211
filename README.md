@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
 
-<!--
-**gby211/gby211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
+  <br>
+  
+  <img width="200" src="https://github.com/gby211/gby211/blob/main/pepefrg-4.gif">
+ 
+  <br>
+  <br>
+  
+  <samp>
+    <i>Hello, there!</i> I'm <b>Pavel</b>.
+    <br>
+    <br>
+    <i>#figma</i>, <i>#photoshop</i>, <i>#kotlin</i>
+  </samp>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
