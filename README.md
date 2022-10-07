@@ -3,7 +3,7 @@
   <br>
   <br>
   
-  <img width="200" src="https://github.com/gby211/gby211/blob/main/pepefrg-4.gif">
+  <img width="400" src="https://github.com/gby211/gby211/blob/main/pepefrg-4.gif">
  
   <br>
   <br>
