@@ -21,4 +21,10 @@
   <br>
   <br>
 
+
+## **GitHub stats**
+<a href="https://github.com/gby211">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gby211&theme=dracula&hide_langs_below=1" />
+</a>
+
 </p>
